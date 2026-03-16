@@ -1,9 +1,9 @@
-# Bachelorarbeit
+# Bachelor's thesis
 
-- enthält Modelle mit Skript und Datensatz  
-- enthält Code vom Prototyp und Audioplayer  
+- contains models with scripts  
+- contains code from the prototype and audio player  
 
-## Modelle
+## Models
 
 - DrumsRNN  
 - GrooveVAE  
@@ -14,9 +14,9 @@
 
 ## Prototyp
 
-- [deployed unter](https://brodmannerik.github.io/Prototyp/)
+- [deployed here](https://brodmannerik.github.io/Prototyp/)
 
 
 ## Audioplayer
 
-- [deployed unter](https://brodmannerik.github.io/BachelorThesisListener/)
+- [deployed here](https://brodmannerik.github.io/BachelorThesisListener/)
